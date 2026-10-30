@@ -1,14 +1,14 @@
 /* 麦浪点唱 · 离线缓存
  * 发布新版本时请同步修改 CACHE_NAME。
  */
-const CACHE_NAME = 'mailang-ktv-v7';
+const CACHE_NAME = 'mailang-ktv-v1';
 const APP_SHELL = [
   './',
   './index.html',
   './styles.css',
   './data.js',
   './app.js',
-  './audio/spin-wheel.mp3?v=2',
+  './spin-wheel.mp3?v=2',
   './manifest.webmanifest',
   './icons/icon.svg',
   './icons/icon-192.png',
