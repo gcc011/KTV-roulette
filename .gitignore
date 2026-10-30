@@ -1,0 +1,12 @@
+# 本地测试与缓存
+.audio-tools/
+.chrome-*/
+__pycache__/
+*.pyc
+*.log
+
+# 开发过程文件
+shots/
+_*
+.DS_Store
+Thumbs.db
