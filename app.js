@@ -102,7 +102,7 @@
   let spinAudioAvailable = true;
   let usingSpinAudio = false;
 
-  const SPIN_AUDIO_SRC = './audio/spin-wheel.mp3?v=2';
+  const SPIN_AUDIO_SRC = './spin-wheel.mp3?v=2';
   const SPIN_AUDIO_VOLUME = 1.0;
   /* ---------- 工具 ---------- */
 
